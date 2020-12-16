@@ -1,0 +1,18 @@
+body {
+  font: 100% Helvetica, sans-serif;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+  font-size: 18px;
+}
+
+button {
+  background-color: lightgreen;
+  color: white;
+}
+

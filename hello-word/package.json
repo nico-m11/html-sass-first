@@ -1,0 +1,14 @@
+{
+  "name": "hello-word",
+  "version": "1.0.0",
+  "description": "first-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicola Melito",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.30.0"
+  }
+}

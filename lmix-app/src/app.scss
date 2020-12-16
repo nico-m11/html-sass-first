@@ -1,0 +1,23 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: red;
+$secondary-color: blue;
+$back-color: lightgreen;
+$terz-color: white;
+$font-size: 18px;
+body {
+  font: 100% $font-stack;
+}
+
+h1 {
+  color: $primary-color;
+}
+
+p {
+  color: $secondary-color;
+  font-size: $font-size;
+}
+
+button {
+  background-color: $back-color;
+  color: $terz-color;
+}
